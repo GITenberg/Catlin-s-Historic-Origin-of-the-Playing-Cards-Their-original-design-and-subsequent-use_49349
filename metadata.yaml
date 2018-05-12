@@ -1,10 +1,16 @@
 _repo: Catlin-s-Historic-Origin-of-the-Playing-Cards-Their-original-design-and-subsequent-use_49349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49349-h/images/cover.jpg
 creator:
   author:
     agent_name: Catlin, H. D.
     gutenberg_agent_id: '45278'
     url: http://www.gutenberg.org/2009/agents/45278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49349#Catlin-s-Historic-Origin-of-the-Playing-Cards-Their-original-design-and-subsequent-use
 gutenberg_issued: '2015-07-03'
 gutenberg_type: Text
 identifiers:
